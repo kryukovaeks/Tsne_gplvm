@@ -17,6 +17,7 @@ To compare different hyperparameters in t-SNE for genes:
 t-SNE qPCR.ipynb
 
 To compare different prior variance in GPLVM for toy data:
+GPLVM_twist_script.py
 main_for_toy_ds.ipynb
 
 To compare different prior variance in GPLVM for genes:
